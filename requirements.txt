@@ -1,0 +1,8 @@
+fastapi
+psycopg2
+opencv-python
+face-recognition
+pyjwt
+pydantic
+uvicorn
+python-multipart
